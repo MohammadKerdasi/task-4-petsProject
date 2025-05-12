@@ -103,7 +103,7 @@ pet-adoption-platform/
 
 ---
 
-## ⚠️ Error Handling
+## Error Handling
 
 - Return error messages and status code:
   ```json
